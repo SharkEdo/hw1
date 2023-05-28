@@ -1,6 +1,6 @@
 ## Table of Contents
 1. [Title](#Title)
-2. [General Info](#General Info)
+2. [General Info](#General-Info)
 
 ### Title
 ***
