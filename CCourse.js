@@ -80,6 +80,8 @@ btn = addEventListener("submit", search);
 
 function saveSong(event){
   // Preparo i dati da mandare al server e invio la richiesta con POST
+  likecol = event.currentTarget;
+  likecol.style.border = "5px solid green";
   console.log("Salvataggio")
   // get parent card
   const card = event.currentTarget.parentNode;
